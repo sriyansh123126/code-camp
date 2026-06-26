@@ -1,0 +1,6 @@
+{
+  "name": "Code Camp",
+  "description": "An immersive productivity dashboard and creative AI workspace. Manage tasks, compose structured documents, and brainstorm with virtual profiles side-by-side.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
